@@ -21,6 +21,6 @@ Draco should be a high-level language which could replace C#, but improve it in 
 
 Right now we are still working out the core of the language. Here's an overview of this repo:
 
-- [Language suggestions](./Language-suggestions) - ideas and design notes about the language, as well as the formal specification
-- [Core library suggestions](./Core-library-suggestions) - same but for the core (standard) library
-- [Compiler](./Compiler) - compiler as well as tooling around the language
+- [Language suggestions](https://github.com/Draco-lang/Language-suggestions) - ideas and design notes about the language, as well as the formal specification
+- [Core library suggestions](https://github.com/Draco-lang/Core-library-suggestions) - same but for the core (standard) library
+- [Compiler](https://github.com/Draco-lang/Compiler) - compiler as well as tooling around the language
